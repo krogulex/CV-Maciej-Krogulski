@@ -24,7 +24,7 @@ body {
 .right-side {
   width: 830px;
   padding-left: 80px;
-  padding-right: 200px;
+  padding-right: 190px;
   padding-top: 68px;
   padding-bottom: 68px;
 }
@@ -77,6 +77,7 @@ body {
 
 .project__description {
   padding-left: 15px;
+
 }
 
 .jobs-title,
