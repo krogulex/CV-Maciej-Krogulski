@@ -71,6 +71,14 @@ body {
   color: #ff6b08;
 }
 
+.project__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.project__description {
+  padding-left: 15px;
+}
+
 .jobs-title,
 .education-title {
   color: #2a2a2a;
